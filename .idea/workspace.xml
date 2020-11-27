@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0508ef08-f44d-4523-a303-7cad0de78603" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/diancan$FrameworkApplication.ic" NAME="FrameworkApplication Coverage Results" MODIFIED="1587031294686" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="185" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="D:\2maven3.6.1\maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kRzxxWjlkbbUQaaPMat5FkMe2S" />
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1588683520849" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\aaa_Diploma\diancan\src\main\webapp\static\pay" />
+      <recent name="D:\aaa_Diploma\diancan\src\main\webapp\static" />
+      <recent name="D:\aaa_Diploma\diancan\src\main\webapp\static\pro\upload" />
+      <recent name="D:\aaa_Diploma\diancan\src\main\webapp\js" />
+      <recent name="D:\aaa_Diploma\diancan\src\main\webapp" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.ms.diancan.utils" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\lenovo\Desktop\diancan-master\diancan\src\main\java\com\ms\diancan\test" />
+      <recent name="C:\Users\lenovo\Desktop\diancan-master\diancan\src\main\java\com\ms\diancan\controller\api" />
+      <recent name="D:\aaa_Diploma\diancan\src\main\webapp\static\pro\upload" />
+      <recent name="D:\aaa_Diploma\diancan\src\main\webapp\WEB-INF\admin\order" />
+      <recent name="D:\aaa_Diploma\diancan\src\main\webapp\WEB-INF\admin\notice" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="FrameworkApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="diancan" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ms.diancan.FrameworkApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="UPDATE_ACTION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\lenovo\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0508ef08-f44d-4523-a303-7cad0de78603" name="Default Changelist" comment="" />
+      <created>1584537646372</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584537646372</updated>
+      <workItem from="1584537651204" duration="632000" />
+      <workItem from="1584586727288" duration="13512000" />
+      <workItem from="1584603510515" duration="164000" />
+      <workItem from="1584604729227" duration="16509000" />
+      <workItem from="1584668800948" duration="24813000" />
+      <workItem from="1584770768431" duration="454000" />
+      <workItem from="1584792589416" duration="5452000" />
+      <workItem from="1584842929335" duration="876000" />
+      <workItem from="1584844022952" duration="1562000" />
+      <workItem from="1584847030553" duration="18448000" />
+      <workItem from="1584867221789" duration="9230000" />
+      <workItem from="1584879776736" duration="5492000" />
+      <workItem from="1584924483756" duration="15465000" />
+      <workItem from="1584942962294" duration="26684000" />
+      <workItem from="1584972309538" duration="669000" />
+      <workItem from="1585011587603" duration="17019000" />
+      <workItem from="1585048785369" duration="8775000" />
+      <workItem from="1585103587920" duration="10951000" />
+      <workItem from="1585129250408" duration="1242000" />
+      <workItem from="1585130903467" duration="3379000" />
+      <workItem from="1585188169572" duration="12000" />
+      <workItem from="1585188629220" duration="283000" />
+      <workItem from="1585395199782" duration="4556000" />
+      <workItem from="1585549808392" duration="180000" />
+      <workItem from="1585558202967" duration="30000" />
+      <workItem from="1585740297513" duration="1298000" />
+      <workItem from="1585809202378" duration="9059000" />
+      <workItem from="1585819725856" duration="13282000" />
+      <workItem from="1585836099241" duration="1820000" />
+      <workItem from="1585892345276" duration="1245000" />
+      <workItem from="1585902742317" duration="18832000" />
+      <workItem from="1585973850443" duration="2542000" />
+      <workItem from="1586003512328" duration="846000" />
+      <workItem from="1586077182715" duration="507000" />
+      <workItem from="1586088332810" duration="4137000" />
+      <workItem from="1586149282586" duration="9975000" />
+      <workItem from="1586173842292" duration="3802000" />
+      <workItem from="1586226925216" duration="204000" />
+      <workItem from="1586336073397" duration="603000" />
+      <workItem from="1586339074611" duration="71000" />
+      <workItem from="1586574873481" duration="298000" />
+      <workItem from="1586593417374" duration="369000" />
+      <workItem from="1586741522671" duration="1909000" />
+      <workItem from="1586758458378" duration="5811000" />
+      <workItem from="1586784228469" duration="1230000" />
+      <workItem from="1586830630811" duration="3529000" />
+      <workItem from="1586940478268" duration="6167000" />
+      <workItem from="1586954079487" duration="395000" />
+      <workItem from="1586954542910" duration="2201000" />
+      <workItem from="1587001956914" duration="4770000" />
+      <workItem from="1587013837499" duration="16938000" />
+      <workItem from="1587125529507" duration="190000" />
+      <workItem from="1587129806165" duration="175000" />
+      <workItem from="1587713215746" duration="1844000" />
+      <workItem from="1588035772530" duration="9027000" />
+      <workItem from="1588057497507" duration="13453000" />
+      <workItem from="1588074001985" duration="2968000" />
+      <workItem from="1588145186898" duration="2619000" />
+      <workItem from="1588151336303" duration="12881000" />
+      <workItem from="1588210523032" duration="5549000" />
+      <workItem from="1588216190592" duration="127000" />
+      <workItem from="1588242083414" duration="782000" />
+      <workItem from="1588250685837" duration="1298000" />
+      <workItem from="1588254541286" duration="542000" />
+      <workItem from="1588332732779" duration="104000" />
+      <workItem from="1588406101206" duration="1718000" />
+      <workItem from="1588426091063" duration="718000" />
+      <workItem from="1588577122251" duration="3560000" />
+      <workItem from="1588586116510" duration="2106000" />
+      <workItem from="1588656392071" duration="20031000" />
+      <workItem from="1605678446485" duration="1584000" />
+      <workItem from="1605768151707" duration="4730000" />
+      <workItem from="1605841093901" duration="5704000" />
+      <workItem from="1605853827119" duration="1163000" />
+      <workItem from="1606374467988" duration="934000" />
+      <workItem from="1606390867110" duration="2141000" />
+      <workItem from="1606393054486" duration="1194000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="UserController_Test - 2020.03.24 at 10h 53m 54s.xml">
+      <configuration name="UserController.Test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserController_Test - 2020.03.24 at 10h 54m 45s.xml">
+      <configuration name="UserController.Test" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ms/diancan/controller/api/LoginController.java</url>
+          <line>121</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ms/diancan/controller/api/LoginController.java</url>
+          <line>127</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ms/diancan/controller/api/LoginController.java</url>
+          <line>128</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ms/diancan/controller/api/LoginController.java</url>
+          <line>137</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ms/diancan/controller/web/Back_ProductController.java</url>
+          <line>99</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ms/diancan/controller/web/Back_ProductController.java</url>
+          <line>116</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ms/diancan/controller/web/Back_ProductController.java</url>
+          <line>117</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ms/diancan/controller/web/Back_OrderController.java</url>
+          <line>165</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ms/diancan/controller/web/Back_OrderController.java</url>
+          <line>166</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ms/diancan/controller/web/Back_OrderController.java</url>
+          <line>167</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ms/diancan/controller/api/OrderController.java</url>
+          <line>109</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ms/diancan/controller/api/OrderController.java</url>
+          <line>115</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ms/diancan/service/OrderServiceImpl.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ms/diancan/service/OrderServiceImpl.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ms/diancan/service/OrderServiceImpl.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ms/diancan/service/OrderServiceImpl.java</url>
+          <line>62</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ms/diancan/controller/web/Back_OrderController.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ms/diancan/controller/web/Back_OrderController.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ms/diancan/controller/web/Back_OrderController.java</url>
+          <line>103</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ms/diancan/controller/web/Back_OrderController.java</url>
+          <line>104</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ms/diancan/controller/api/LoginController.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ms/diancan/controller/api/LoginController.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ms/diancan/controller/api/LoginController.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ms/diancan/controller/api/LoginController.java</url>
+          <line>60</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ms/diancan/controller/api/LoginController.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ms/diancan/controller/api/LoginController.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ms/diancan/service/ProductServiceImpl.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/github/pagehelper/pagehelper/4.1.0/pagehelper-4.1.0.jar!/com/github/pagehelper/PageInfo.class</url>
+          <line>242</line>
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ms/diancan/controller/api/UserController.java</url>
+          <line>84</line>
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ms/diancan/mapper/ProductMapper.java</url>
+          <line>12</line>
+          <properties class="com.ms.diancan.mapper.ProductMapper" method="findAllProductList" />
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>jar://$MAVEN_REPOSITORY$/com/github/pagehelper/pagehelper/4.1.0/pagehelper-4.1.0.jar!/com/github/pagehelper/PageInfo.class</url>
+          <line>25</line>
+          <properties field="lastPage" class="com.github.pagehelper.PageInfo" />
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>diancan</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.1.11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
